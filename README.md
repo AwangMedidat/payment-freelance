@@ -19,3 +19,28 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan project:
    ```bash
    git clone <URL_REPOSITORI>
    cd payment-freelance
+
+2. **Instal dependensi:**
+
+   ```bash
+   npm install
+
+3. **Siapkan database:**
+
+- Buat database baru sesuai dengan jenis database yang Anda gunakan.
+
+- Buat file .env di root folder project Anda dan atur variabel lingkungan sesuai kebutuhan. Contoh:
+
+   ```bash
+   DATABASE_URL="postgresql://user:password@localhost:5432/nama_database"
+
+4. **Inisialisasi Prisma:**
+
+   ```bash
+   npx prisma migrate dev
+
+5. **Jalankan aplikasi:**
+
+   ```bash
+   npm run dev
+
