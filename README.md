@@ -6,9 +6,9 @@ Project ini adalah aplikasi berbasis Next.js yang dirancang untuk memudahkan pen
 
 Sebelum menjalankan project ini, pastikan Anda telah menginstal:
 
-- **Node.js** (versi 14 atau lebih baru)
-- **npm** (versi 6 atau lebih baru) atau **yarn**
-- **Database** (seperti PostgreSQL, MySQL, dll.) untuk mengelola data.
+- **Node.js** (versi 18 atau lebih baru)
+- **npm** (versi 9 atau lebih baru) atau **yarn**
+- **Database** (PostgreSQL) untuk mengelola data.
 
 ## Instalasi
 
