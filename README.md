@@ -17,7 +17,7 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan project:
 1. **Clone repositori ini:**
 
    ```bash
-   git clone <URL_REPOSITORI>
+   git clone https://github.com/AwangMedidat/payment-freelance.git
    cd payment-freelance
 
 2. **Instal dependensi:**
